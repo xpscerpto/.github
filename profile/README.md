@@ -26,10 +26,10 @@ Forensic Evidence / Runtime Custody
 
 ## Public Surfaces
 
-- **Documentation:** staged publication
-- **Architecture:** staged publication
-- **Governance:** staged publication
-- **Security:** staged publication
+- **Documentation:** https://github.com/xpscerpto/docs
+- **Architecture:** https://github.com/xpscerpto/docs/blob/main/ARCHITECTURE.md
+- **Governance:** https://github.com/xpscerpto/docs/blob/main/GOVERNANCE.md
+- **Security:** https://github.com/xpscerpto/docs/blob/main/SECURITY.md
 - **Forensic Command Center:** staged publication
 - **Website:** staged publication
 
