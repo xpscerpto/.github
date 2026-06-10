@@ -1,5 +1,9 @@
 
----
+<p align="center"><img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/e5f6bae4-15fe-4ccc-9b45-41db434961ad" />
+" alt="XPScerpto — Governed Sovereign Cryptographic Infrastructure" width="100%">
+</p>
+
+<div align="center">
 
 # 📑 XPScerpto: Architectural Specification & Manifesto
 
