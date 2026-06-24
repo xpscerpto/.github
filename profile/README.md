@@ -1,30 +1,23 @@
 
----
 
-<p align="center">
-  <img width="900" alt="XPScerpto Architectural Banner" src="https://github.com/user-attachments/assets/e5f6bae4-15fe-4ccc-9b45-41db434961ad" />
-</p>
-
-<div align="center">
 
 
 # XPScerpto
 
-**A governed sovereign cryptographic infrastructure platform for sensitive systems, built around evidence-bound claims, strict authority boundaries, and fail-closed operational truth.**
+**XPScerpto is a governed sovereign cryptographic infrastructure platform for sensitive systems, built around evidence-bound claims, strict authority boundaries, and fail-closed operational truth.**
 
-</div>
+## Platform Definition
 
----
+XPScerpto is engineered for environments where trust alone is a vulnerability.
 
-## 🧭 Platform Definition
+The platform treats authority, governance, evidence, validation, and security claims as foundational architectural constraints, not as external assumptions or post-build documentation.
 
-**XPScerpto** is a governed sovereign cryptographic infrastructure platform for sensitive systems, built around evidence-bound claims, strict authority boundaries, and fail-closed operational truth.
+Rather than focusing only on mathematical or cryptographic correctness, XPScerpto makes validation boundaries, execution authority, operational behavior, and critical security claims explicit, governed, auditable, and backed by replayable evidence.
 
-The platform is engineered for environments where trust alone is a vulnerability. It treats authority, governance, evidence, validation, and security claims as foundational architectural constraints rather than external assumptions.
+Its objective is not merely to secure computation, but to construct resilient infrastructure where authority is strictly contained, claims are verifiable, and critical runtime behavior can be independently inspected without accepting undocumented trust.
 
-Instead of focusing exclusively on mathematical or cryptographic correctness, XPScerpto makes validation boundaries, execution authority, operational behavior, and critical security claims explicit, governed, auditable, and backed by replayable proofs.
+Within XPScerpto, no security, production, runtime, or governance claim is accepted by declaration alone. Every claim must be bound to source identity, authority scope, build evidence, test evidence, runtime evidence, and replayable verification. When evidence is missing, ambiguous, stale, or inconsistent, the platform must fail closed.
 
-The objective is not merely to secure computation, but to construct resilient infrastructure where authority is strictly contained, claims are verifiable, and critical runtime behavior can be independently inspected without accepting undocumented trust.
 
 
 ---
